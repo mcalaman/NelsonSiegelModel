@@ -1,0 +1,7 @@
+pandas
+datetime
+matplotlib
+scipy
+numpy
+os
+sys
